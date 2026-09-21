@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "843b37ba36e783d172a591b7",
+  "owner": "hvkyfxhtd",
+  "repo": "page-079cd732ff3c4b68e511e3dc",
+  "title": "灵云(OFLY)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "079cd732ff3c4b68e511e3dc",
+      "a": "灵云(OFLY)",
+      "b": "2027官方最新地址导航",
+      "entity": "灵云(OFLY)",
+      "brand": "灵云(OFLY)",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "0e074d534a598438ff2724682094303a7ced954115299c444d9fd4f183650056",
+      "content": {
+        "primary_entity": "灵云(OFLY)",
+        "keyword1": "灵云(OFLY)",
+        "keyword2": "2027官方最新地址导航",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备系统选择客户端，订阅信息通用。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLOSING_TEXT": "访问品牌地址获取近况，注册后依套餐完成订阅配置。",
+          "AI_CLOSING_TITLE": "开始使用灵云",
+          "AI_DESCRIPTION": "，提供基础版、旗舰版与团队版三档付费套餐，月付15元起，年付150元起。每月流量从100GB到1000GB，单账号支持3台至20台设备同时在线。旗舰版和团队版覆盖流媒体解锁与高带宽节点，团队版含专属客户经理。选择时按设备数量、月流量和预算对照即可。",
+          "AI_FEATURES_INTRO": "从流量、设备数和线路三个维度比较。",
+          "AI_FEATURES_TITLE": "套餐选择维度",
+          "AI_FEATURE_TEXT_1": "基础版每月100GB、3台设备，旗舰版每月300GB、5台设备，团队版每月1000GB、20台设备。",
+          "AI_FEATURE_TEXT_2": "旗舰版含IPLC专线游戏加速优化，团队版提供VIP专属高带宽节点与企业定制路由。",
+          "AI_FEATURE_TEXT_3": "月付灵活，年付更省：基础版年付150元，旗舰版年付350元，团队版年付850元。",
+          "AI_FEATURE_TITLE_1": "流量与设备",
+          "AI_FEATURE_TITLE_2": "线路与加速",
+          "AI_FEATURE_TITLE_3": "计费周期",
+          "AI_GUIDE_INTRO": "三步完成订阅配置与客户端使用。",
+          "AI_GUIDE_TITLE": "使用流程",
+          "AI_HERO_INTRO": "灵云(OFLY)提供按月或按年订阅的海外网络加速服务，套餐覆盖基础流量、多设备在线和专属线路场景。选择时先确认设备数量与每月流量需求，再对照基础版、旗舰版、团队版的权益差异。",
+          "AI_HERO_SUBTITLE": "按设备与流量选择套餐",
+          "AI_HIGHLIGHT_1": "月付15元起 年付更省",
+          "AI_HIGHLIGHT_2": "支持3至20台设备在线",
+          "AI_HIGHLIGHT_3": "旗舰含IPLC游戏加速",
+          "AI_PLANS_INTRO": "基础版适合轻量使用，旗舰版适合多设备与流媒体，团队版支持20台设备与企业定制。流量从100GB到1000GB，按年付可降低月均成本。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据设备数量、每月流量和线路需求，从基础版、旗舰版、团队版中选择适合的套餐。",
+          "AI_STEP_TEXT_2": "查看所选套餐的适配要求，确认操作系统与同时在线设备数。",
+          "AI_STEP_TEXT_3": "参照客户端文档导入订阅信息，按指引完成配置。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TITLE_2": "查看适配",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "灵云套餐清晰对比",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "灵云(OFLY)支持哪些设备系统？",
+          "AI_FAQ_ANSWER_1": "常见客户端覆盖桌面与移动系统，包括部分路由设备。不同系统的具体适配情况可查阅对应客户端文档，按设备类型选择安装包即可。",
+          "AI_FAQ_QUESTION_2": "基础版和旗舰版的主要区别是什么？",
+          "AI_FAQ_ANSWER_2": "基础版每月100GB、3台设备；旗舰版每月300GB、5台设备，并增加全节点流媒体解锁、IPLC专线游戏加速优化和优先工单支持。",
+          "AI_FAQ_QUESTION_3": "团队版适合多少设备使用？",
+          "AI_FAQ_ANSWER_3": "团队版支持20台设备同时在线，每月1000GB流量，并提供VIP专属高带宽节点、企业定制路由与专属客户经理服务。",
+          "AI_FAQ_QUESTION_4": "订阅可以按年付费吗？",
+          "AI_FAQ_ANSWER_4": "可以，基础版年付¥150，旗舰版年付¥350，团队版年付¥850。按年付费相比按月订阅更节省整体费用。",
+          "AI_FAQ_QUESTION_5": "导入订阅后无法连接怎么办？",
+          "AI_FAQ_ANSWER_5": "先检查订阅链接是否完整、客户端版本是否为最新，并确认设备未超出套餐同时在线数量。如仍无法连接，可联系对应套餐的工单支持。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "nnzhl.cn",
+    "host": "nnzhl.cn"
+  },
+  "file_hashes": {
+    "index.html": "01fa456efb2dfbc8974f3822911a18846ef90ccb6aa442ebadcba3559c89f91e",
+    "sitemap.xml": "ced522eda62e47aa2d4c94927d2a1459706890e6497bdf1ca0395939d7ac7739",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "36df7186ee68d47289c8ec3aa51b5c61f2f328e31634c696a2f56e69fa406621",
+    "robots.txt": "ee54d4cbc2202d2cd4f0e668107c45ca8d556c4292881b2cd0f31cf260ff7552",
+    "da190b5ca6308e90bc4154082d7efbe8.txt": "3cd8e18fb5ce023881e39bdb235e0e5ead4b6c9bec0112c1bdcc14bfcc050aa7"
+  },
+  "revision": "02c2668fdc2f53494fd283bede2b76bb28a28042de1c4f3fd477a15fd424ff7c"
+}
